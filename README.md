@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo  ao meu perfil 🌒
 
-<!--
-**DuduIzeliX/DuduIzeliX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Eduardo Izeli Pereira.
 
-Here are some ideas to get you started:
+- Utilizo a plataforma alura par estudar linguagem de programação.
+- estou me desenvolvendo nas linguagens java Script, HTML e CSS.
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce pode entrar em contato comigo 📫
+  eduardo.izeli.pereira@escola.pr.gov.br
+
+  ![](https://media.tenor.com/bThossHecm4AAAAd/yo-no-puedo-tengo-futbol.gif)
+
+  

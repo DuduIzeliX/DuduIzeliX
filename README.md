@@ -9,6 +9,6 @@ Meu nome e Eduardo Izeli Pereira.
   ### voce pode entrar em contato comigo 📫
   eduardo.izeli.pereira@escola.pr.gov.br
 
-  ![]([https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif]
+  ![](https://media.tenor.com/PKKCAakpBZIAAAAC/neyney-neymar.gif)
 
   
